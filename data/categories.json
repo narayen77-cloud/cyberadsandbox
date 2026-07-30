@@ -1,0 +1,47 @@
+[
+  {
+    "id": "growth-marketing",
+    "name": "Growth Marketing",
+    "slug": "growth-marketing",
+    "description": "Data-driven customer acquisition strategies, funnel optimization, and attribution modeling.",
+    "iconName": "TrendingUp",
+    "color": "from-blue-500 to-cyan-500",
+    "count": 8
+  },
+  {
+    "id": "ai-automation",
+    "name": "AI & Automation",
+    "slug": "ai-automation",
+    "description": "Leveraging AI, autonomous agents, and LLMs to automate ad creative and marketing workflows.",
+    "iconName": "Zap",
+    "color": "from-purple-500 to-indigo-500",
+    "count": 6
+  },
+  {
+    "id": "seo-analytics",
+    "name": "SEO & Analytics",
+    "slug": "seo-analytics",
+    "description": "Technical SEO audits, Core Web Vitals, GA4 custom tracking, and organic ranking algorithms.",
+    "iconName": "Search",
+    "color": "from-emerald-500 to-teal-500",
+    "count": 5
+  },
+  {
+    "id": "web-engineering",
+    "name": "Web Engineering",
+    "slug": "web-engineering",
+    "description": "Building blazing-fast React, Vite, Next.js, and serverless applications for maximum performance.",
+    "iconName": "Code2",
+    "color": "from-orange-500 to-amber-500",
+    "count": 7
+  },
+  {
+    "id": "content-strategy",
+    "name": "Content Strategy",
+    "slug": "content-strategy",
+    "description": "Programmatic content engines, editorial authority, and brand storytelling that scales.",
+    "iconName": "FileText",
+    "color": "from-pink-500 to-rose-500",
+    "count": 4
+  }
+]
